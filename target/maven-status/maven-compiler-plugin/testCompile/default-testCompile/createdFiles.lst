@@ -1,0 +1,4 @@
+com\gorest\testbase\TestBase.class
+com\gorest\userinfo\UserCRUDTestWithSteps.class
+com\gorest\userinfo\CreateUserDataDrivenTest.class
+com\gorest\userinfo\UserTagsTest.class
